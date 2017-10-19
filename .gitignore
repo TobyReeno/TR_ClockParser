@@ -1,0 +1,4 @@
+*.backup*
+*.clean*
+*.bat
+.idea/

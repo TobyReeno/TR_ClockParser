@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<c2addon>
+	<type>plugin</type>
+	
+	<name>TR_ClockParser</name>
+	<version>1.2</version>
+	<author>Toby R</author>
+	<website>http://www.neexeen.com</website>
+	<documentation>http://www.neexeen.com</documentation>
+	<description>Plugin that parses seconds to clock string.</description>
+</c2addon>
