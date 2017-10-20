@@ -1,5 +1,5 @@
 # Configuration
-## TR_ClockParser plugin - v1.2 - by Toby R<img src='C:\Users\reeno_000\dev\C2 plugins\Toby R\TR_ClockParser\c2addon\files\TR_ClockParser\PluginIcon.ico' alt='Icon'>
+## TR_ClockParser plugin - v1.2 - by Toby R
 Property | Value
 --- | ---
 Description | Plugin that parses seconds to clock string.
