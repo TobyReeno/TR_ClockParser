@@ -133,7 +133,7 @@ cr.plugins_.TR_ClockParser = function(runtime)
         var seconds = +(a.length === 3 ? a[2] : (a.length === 2 ? a[1] : (a.length === 1 ? a[0] : 0)));
 
         seconds = hours * 3600 + minutes * 60 + seconds;
-        
+
         ret.set_int(seconds);
     };
 
